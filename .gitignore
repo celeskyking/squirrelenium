@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Gradle template
 .gradle
 build/
@@ -7,6 +8,9 @@ gradle-app.setting
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
 !gradle-wrapper.jar
+=======
+# Created by .ignore support plugin (hsz.mobi)
+>>>>>>> f0e630cae38ebb3ad13b8f153e8fe9b948e09c8a
 ### Java template
 *.class
 
@@ -20,8 +24,23 @@ gradle-app.setting
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 
 # Created by .ignore support plugin (hsz.mobi)
 
 .idea
 *.iml
+=======
+### Gradle template
+.gradle
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+*.iml
+.idea
+
+>>>>>>> f0e630cae38ebb3ad13b8f153e8fe9b948e09c8a
